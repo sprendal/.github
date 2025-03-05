@@ -1,3 +1,3 @@
-# .github-private
+# .github
 
-Private organization-wide metarepository.
+Organization-wide metarepository.
